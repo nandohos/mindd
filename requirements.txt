@@ -4,6 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 ydata_profiling
-scypy
+scipy
 tensorflow
 keras
